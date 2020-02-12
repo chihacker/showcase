@@ -1,7 +1,8 @@
-package blog.cmcmcmcm.showcaseapp
+package blog.cmcmcmcm.showcaseapp.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import blog.cmcmcmcm.showcaseapp.R
 
 class MainActivity : AppCompatActivity() {
 
